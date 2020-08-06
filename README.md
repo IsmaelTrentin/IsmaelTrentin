@@ -16,4 +16,4 @@
 
 ---
 
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=IsmaelTrentin&count_private=true&show_icons=true&theme=cobalt)
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=IsmaelTrentin&count_private=true&show_icons=true&theme=dark)
