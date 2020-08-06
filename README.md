@@ -8,10 +8,10 @@
 
 ### 🔎 Some Infos:
 
-- 👨🏻‍💻 I’m currently learning: TypeScript
+- 🎓 Student at:                SAM Trevano
 - 📫 How to reach me:           __ismael.trentin@samtrevano.ch__
-- 🧑🏻 Pronouns:                  He/Him
 - 💼 School website:            [redirect](http://samtinfo.ch/i17treism/)
+- 👨🏻‍💻 I’m currently learning: TypeScript
 - ⚡ Fun fact:                  bass player 🎸
 
 ---
