@@ -13,3 +13,7 @@
 - 🧑🏻 Pronouns:                  He/Him
 - 💼 School website:            [redirect](http://samtinfo.ch/i17treism/)
 - ⚡ Fun fact:                  bass player 🎸
+
+---
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=IsmaelTrentin&count_private=true)
