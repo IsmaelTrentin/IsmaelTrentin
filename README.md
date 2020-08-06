@@ -9,7 +9,7 @@
 ### 🔎 Some Infos:
 
 - 👨🏻‍💻 I’m currently learning: TypeScript
-- 📫 How to reach me:           [Private E-Mail](ismael.trentin@samtrevano.ch)
+- 📫 How to reach me:           __ismael.trentin@samtrevano.ch__
 - 🧑🏻 Pronouns:                  He/Him
 - 💼 School website:            [redirect](http://samtinfo.ch/i17treism/)
 - ⚡ Fun fact:                  bass player 🎸
