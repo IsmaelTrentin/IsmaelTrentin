@@ -6,7 +6,7 @@
 
 ---
 
-### 🔎 Some infos:
+### 🔎 Some Infos:
 
 - 👨🏻‍💻 I’m currently learning: TypeScript
 - 📫 How to reach me:           [Private E-Mail](ismael.trentin@samtrevano.ch)
