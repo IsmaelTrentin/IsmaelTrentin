@@ -1,16 +1,15 @@
-### Hi there 👋
+### Currently Working On:
 
-<!--
-**IsmaelTrentin/IsmaelTrentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* School
+* New WaifuBot (waifubotto)
+* MyAnimeList Characters API (Wapu)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+### Some infos:
+
+- 🌱 I’m currently learning TypeScript
+- 📫 How to reach me: [Private E-Mail]()
 - 😄 Pronouns: ...
+- ⚡ School website: [redirect](http://samtinfo.ch/i17treism/)
 - ⚡ Fun fact: ...
--->
