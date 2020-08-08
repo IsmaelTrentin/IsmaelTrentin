@@ -2,7 +2,7 @@
 
 * School projects
 * New [Discord](https://discord.com/new) WaifuBot (waifubotto)
-* [MyAnimeList](https://myanimelist.net) Characters API (Wapu)
+* [Wapu]() - [MyAnimeList](https://myanimelist.net) Characters API
 
 ---
 
