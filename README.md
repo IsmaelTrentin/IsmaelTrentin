@@ -9,7 +9,7 @@
 ### 🔎 Some Infos:
 
 - 🎓 Student at:                SAM Trevano
-- 📫 How to reach me:           __ismael.trentin@samtrevano.ch__
+- 📫 Reach out to me:           __ismael.trentin@samtrevano.ch__
 - 💼 School website:            [redirect](http://samtinfo.ch/i17treism/)
 - 👨🏻‍💻 I’m currently learning: TypeScript
 - ⚡ Fun fact:                  bass player 🎸
