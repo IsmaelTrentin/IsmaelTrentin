@@ -1,16 +1,21 @@
-### Hi there 👋
+### 🔧 Currently Working On:
 
-<!--
-**IsmaelTrentin/IsmaelTrentin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* waifubotto - Discord bot for catching and collecting waifus
+* Wapu - MAL Characters API (currently private repo)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔎 Some Infos:
+
+- 🎓 Graduated:                SAM Trevano
+- 📫 Reach out:           __ismaeltrentin@gmail.com__
+- 👨🏻‍💻 Currently learning:    Prisma, bun and devops
+- ⚡ Fun fact:                  i make music!
+
+---
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IsmaelTrentin&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats-phi-olive-85.vercel.app/api/top-langs/?username=IsmaelTrentin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Profile Stats](https://github-readme-stats-phi-olive-85.vercel.app/api?username=IsmaelTrentin&count_private=true&show_icons=true&theme=tokyonight)
