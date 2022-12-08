@@ -1,6 +1,6 @@
 ### 🔧 Currently Working On:
 
-* waifubotto - Discord bot for catching and collecting waifus
+* waifubotto - Discord bot for catching and collecting MAL characters
 * Wapu - MAL Characters API (currently private repo)
 
 ---
