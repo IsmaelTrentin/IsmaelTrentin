@@ -9,7 +9,7 @@
 
 - 🎓 Graduated:                SAM Trevano
 - 📫 Reach out:           __ismaeltrentin@gmail.com__
-- 👨🏻‍💻 Currently learning:    Prisma, bun and devops
+- 👨🏻‍💻 Currently learning:    Rust, Tauri and devops
 - ⚡ Fun fact:                  i make music!
 
 ---
