@@ -1,3 +1,8 @@
+# 👋🏻 Hi there!
+
+I'm Ismael, a junior (wannabe) full-stack developer.
+Here is my [portfolio](https://priisma.dev) 💼
+
 ### 🔧 Currently Working On:
 
 * waifubotto - Discord bot for catching and collecting MAL characters
