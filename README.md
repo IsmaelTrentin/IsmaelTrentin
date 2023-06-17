@@ -5,7 +5,7 @@ Here is my [portfolio](https://priisma.dev) 💼
 
 ### 🔧 Currently Working On:
 
-* waifubotto - Discord bot for catching and collecting MAL characters
+* fl-studio-organizier - Organize audio plugins for FL Studio (tauri app)
 * Wapu - MAL Characters API (currently private repo)
 
 ---
