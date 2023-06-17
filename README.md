@@ -5,7 +5,7 @@ Here is my [portfolio](https://priisma.dev) 💼
 
 ### 🔧 Currently Working On:
 
-* fl-studio-organizier - Organize audio plugins for FL Studio (tauri app)
+* fl-studio-organizer - Organize audio plugins for FL Studio (tauri app)
 * Wapu - MAL Characters API (currently private repo)
 
 ---
