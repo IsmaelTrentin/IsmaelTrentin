@@ -8,13 +8,18 @@ Here is my [portfolio](https://priisma.dev) 💼
 * fl-studio-organizer - Organize audio plugins for FL Studio (tauri app)
 * Wapu - MAL Characters API (currently private repo)
 
+### 📚 Currently Learning:
+
+* 🦀 Rust
+* 🌀 GO
+* 🔊 Digital Signal Processing
+
 ---
 
 ### 🔎 Some Infos:
 
 - 🎓 Graduated:                SAM Trevano
 - 📫 Reach out:           __ismaeltrentin@gmail.com__
-- 👨🏻‍💻 Currently learning:    Rust, Tauri and devops
 - ⚡ Fun fact:                  i make music!
 
 ---
