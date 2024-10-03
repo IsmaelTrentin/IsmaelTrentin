@@ -3,7 +3,9 @@
 I'm Ismael, a junior (wannabe) full-stack developer.
 Here is my [portfolio](https://priisma.dev) 💼
 
-### 📚 Currently Learning:
+I'm currently an undergrad in Software Engineering, studying at SUPSI DTI 📚
+
+### 🤓 Currently Learning:
 
 * 🦀 Rust
 * 🌀 GO
@@ -13,9 +15,9 @@ Here is my [portfolio](https://priisma.dev) 💼
 
 ### 🔎 Some Infos:
 
-- 🎓 Graduated:                SAM Trevano
-- 📫 Reach out:           __ismaeltrentin@gmail.com__
-- ⚡ Fun fact:                  i make music!
+- 🎓 Graduated: SAM Trevano
+- 📫 Reach out: __ismaeltrentin@gmail.com__
+- ⚡ Fun fact: i make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
 
 ---
 
