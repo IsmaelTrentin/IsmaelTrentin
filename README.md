@@ -17,7 +17,7 @@ I'm currently an undergrad in Software Engineering, studying at [SUPSI DTI](http
 
 - 🎓 Graduated: SAM Trevano
 - 📫 Reach out: __ismaeltrentin@gmail.com__
-- ⚡ Fun fact: i make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
+- ⚡ Fun fact: I make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
 
 ---
 
