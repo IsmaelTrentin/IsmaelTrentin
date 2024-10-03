@@ -3,9 +3,9 @@
 I'm Ismael, a junior (wannabe) full-stack developer.
 Here is my [portfolio](https://priisma.dev) 💼
 
-I'm currently an undergrad in Software Engineering, studying at SUPSI DTI 📚
+I'm currently an undergrad in Software Engineering, studying at SUPSI DTI 
 
-### 🤓 Currently Learning:
+### 📚 Currently Learning:
 
 * 🦀 Rust
 * 🌀 GO
