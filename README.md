@@ -13,8 +13,6 @@ I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
 * 🛠️ Full-Stack Development
 * 🔊 Digital Signal Processing
 
----
-
 ### 🔎 Some Infos:
 
 - 🎓 Graduated SAM Trevano
