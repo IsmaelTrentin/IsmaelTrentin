@@ -7,7 +7,7 @@ I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
 * at [SUPSI DTI](https://www.supsi.ch/en/web/dti/).
 * undergrad in Software Engineering
 
-### 👁️ Interested in:
+### 🌟 Interested in:
 
 * 🦀 Rust
 * 🛠️ Full-Stack Development
