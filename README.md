@@ -1,21 +1,23 @@
 # 👋🏻 Hi there!
 
-I'm Ismael, a junior (wannabe) full-stack developer.
-Here is my [portfolio](https://priisma.dev) 💼
+I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
 
-I'm currently an undergrad in Software Engineering, studying at [SUPSI DTI](https://www.supsi.ch/en/web/dti/).
+### 📚 Currently studying:
 
-### 📚 Currently Learning:
+* at [SUPSI DTI](https://www.supsi.ch/en/web/dti/).
+* undergrad in Software Engineering
+
+### 👁️ Interested in:
 
 * 🦀 Rust
-* 🌀 GO
+* 🛠️ Full-Stack Development
 * 🔊 Digital Signal Processing
 
 ---
 
 ### 🔎 Some Infos:
 
-- 🎓 Graduated: SAM Trevano
+- 🎓 Graduated SAM Trevano
 - 📫 Reach out: __ismaeltrentin@gmail.com__
 - ⚡ Fun fact: I make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
 
