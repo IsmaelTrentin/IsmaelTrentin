@@ -16,7 +16,7 @@ I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
 ### 🔎 Some Infos:
 
 - 🎓 Graduated SAM Trevano
-- 📫 Reach out: __ismaeltrentin@gmail.com__
+- 📫 Reach out: __supsisma@gmail.com__
 - ⚡ Fun fact: I make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
 
 ---
