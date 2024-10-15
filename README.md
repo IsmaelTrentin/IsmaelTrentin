@@ -1,6 +1,6 @@
 # 👋🏻 Hi there!
 
-I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
+My [portfolio](https://priisma.dev) 💼
 
 ### 📚 Currently studying:
 
@@ -10,12 +10,12 @@ I'm Ismael! Here is my [portfolio](https://priisma.dev) 💼
 ### 🌟 Interested in:
 
 * 🦀 Rust
-* 🛠️ Full-Stack Development
 * 🔊 Digital Signal Processing
+* 🛠️ Full-Stack Development
 
 ### 🔎 Some Infos:
 
-- 🎓 Graduated SAM Trevano
+- 🎓 SAM Trevano
 - 📫 Reach out: __supsisma@gmail.com__
 - ⚡ Fun fact: I make [music](https://open.spotify.com/artist/31XTo0LqE2aTybO66R3tBy)!
 
