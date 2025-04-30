@@ -21,7 +21,7 @@ My [portfolio](https://priisma.dev) 💼
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IsmaelTrentin&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=IsmaelTrentin&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats-phi-olive-85.vercel.app/api/top-langs/?username=IsmaelTrentin&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
