@@ -1,6 +1,6 @@
 # 👋🏻 Hi there!
 
-My [portfolio](https://priisma.dev) 💼
+My [portfolio](https://portfolio-nine-alpha-77.vercel.app/) 💼
 
 ### 📚 Currently studying:
 
