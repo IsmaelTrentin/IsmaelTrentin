@@ -9,7 +9,6 @@ My [portfolio](https://portfolio-nine-alpha-77.vercel.app/) 💼
 
 ### 🌟 Interested in:
 
-* 🦀 Rust
 * 🔊 Digital Signal Processing
 * 🛠️ Full-Stack Development
 
