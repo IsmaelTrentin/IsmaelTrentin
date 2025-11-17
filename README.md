@@ -10,6 +10,7 @@ My [portfolio](https://portfolio-nine-alpha-77.vercel.app/) 💼
 ### 🌟 Interested in:
 
 * 🔊 Digital Signal Processing
+* 🎥 Realtime Audio Visuals
 * 🛠️ Full-Stack Development
 
 ### 🔎 Some Infos:
